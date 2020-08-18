@@ -7,4 +7,9 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
     }
+
+    public void say(){
+        int i = 10;
+        i += 10;
+    }
 }
